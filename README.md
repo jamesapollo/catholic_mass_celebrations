@@ -1,1 +1,1 @@
-# catholic_mass_celebrations
+# A list of the Sunday Mass Celebrations in the Catholic Church
